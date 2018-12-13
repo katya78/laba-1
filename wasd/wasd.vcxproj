@@ -61,6 +61,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Exception.cpp" />
+    <ClCompile Include="Student.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Exception.h" />
